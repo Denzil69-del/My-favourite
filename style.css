@@ -1,0 +1,57 @@
+body {
+    background-color: lightcyan;
+    text-align: center;
+}
+
+
+.title {
+    font-family: cursive;
+}
+
+
+h4 {
+    color: gray;
+}
+
+
+table, th, td, tr {
+    border: 1px black solid;
+    margin: 0 auto 40px;
+}
+
+
+img {
+    width: 70%;
+}
+
+
+.lasagne {
+    background-color: rgb(250, 240, 250);
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+
+.butter_chicken {
+    background-color: rgb(220, 230, 250);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.chicken_chow_mein {
+    padding-top: 20px;
+    background-color: green;
+    padding-bottom: 20px;
+}
+
+
+a {
+    color: purple;
+}
+
+
+a:hover {
+    color: orange;
+}
+
